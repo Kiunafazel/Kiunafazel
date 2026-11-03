@@ -1,4 +1,12 @@
+<div align="center">
 
+# Kiana Fazel
+
+### Python Developer | Machine Learning Enthusiast
+
+Building practical projects and exploring new technologies.
+
+</div>
 # Hi, I'm Kiana 👋
 
 ### Python Developer | Machine Learning Enthusiast | Web Developer
