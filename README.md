@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Kiunafazel/Kiunafazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kiana 👋
 
-Here are some ideas to get you started:
+### Python Developer | Machine Learning Enthusiast | Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer interested in building practical projects and improving my programming skills.
+
+### About Me
+- 💻 Interested in Python programming and software development.
+- 🤖 Exploring Machine Learning and Artificial Intelligence.
+- 🌐 Familiar with HTML, CSS, and Bootstrap.
+- 📚 Always learning and working on new projects.
+
+### Technical Skills
+- **Languages:** Python, HTML, CSS
+- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Areas:** Machine Learning, Data Analysis, Web Development
+
+### Featured Projects
+Coming soon...
+
+### Connect With Me
+- GitHub: [Kiunafazel](https://github.com/Kiunafazel)
+
